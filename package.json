@@ -1,0 +1,27 @@
+{
+  "name": "class-05-02",
+  "version": "1.0.0",
+  "description": "Classroom work Tuesday, May 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomcali/class-05-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcali/class-05-02/issues"
+  },
+  "homepage": "https://github.com/tomcali/class-05-02",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.13.0",
+    "path": "^0.12.7"
+  }
+}
